@@ -1,0 +1,44 @@
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\bin\Debug\net7.0\partePratica.exe
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\bin\Debug\net7.0\partePratica.deps.json
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\bin\Debug\net7.0\partePratica.runtimeconfig.json
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\bin\Debug\net7.0\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\bin\Debug\net7.0\partePratica.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.csproj.AssemblyReference.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.AssemblyInfoInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.AssemblyInfo.cs
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.csproj.CoreCompileInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\refint\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\partePratica.genruntimeconfig.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\partePratica\obj\Debug\net7.0\ref\partePratica.dll
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\bin\Debug\net7.0\partePratica.exe
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\bin\Debug\net7.0\partePratica.deps.json
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\bin\Debug\net7.0\partePratica.runtimeconfig.json
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\bin\Debug\net7.0\partePratica.dll
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\bin\Debug\net7.0\partePratica.pdb
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.AssemblyInfoInputs.cache
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.AssemblyInfo.cs
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.csproj.CoreCompileInputs.cache
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.dll
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\refint\partePratica.dll
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.pdb
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\partePratica.genruntimeconfig.cache
+C:\Users\Topografia\Documents\codigos\labProgramacao\AP1\partePratica\obj\Debug\net7.0\ref\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\bin\Debug\net7.0\partePratica.exe
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\bin\Debug\net7.0\partePratica.deps.json
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\bin\Debug\net7.0\partePratica.runtimeconfig.json
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\bin\Debug\net7.0\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\bin\Debug\net7.0\partePratica.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.csproj.AssemblyReference.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.GeneratedMSBuildEditorConfig.editorconfig
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.AssemblyInfoInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.AssemblyInfo.cs
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.csproj.CoreCompileInputs.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\refint\partePratica.dll
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.pdb
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\partePratica.genruntimeconfig.cache
+D:\ULBRA 2023-02\Lab. de Programação\AP1\github\AP1_LabProgramacao\codigo\obj\Debug\net7.0\ref\partePratica.dll
